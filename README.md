@@ -11,7 +11,7 @@
 <div>
  <a href="https://github.com/Frolber">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Frolber&count_private=true&show_icons=true&theme=panda">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frolber&layout=compact&theme=panda">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frolber&langs_count=8&layout=compact&theme=panda">
 </div>
 
   #### As linuagens que estou aprendendo:
