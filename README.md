@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Eu sou Rodrigo, conhecido como Frolber! 😀
 
 - 🔭 Não estou trabalhando em nada por enquanto.
-- 🌱 Estou aprendendo atualmente as linguagens de Front-end no momento.
+- 🌱 Estou aprendendo atualmente as linguagens de Back-end no momento, principalmente o C++.
 - 💬 Eu sou um entusiasta por jogos eletrônicos (foi o que me motivou a querer entender sobre linguagens de programação, mas vi que não é para mim) e amante de artes visuais de tudo (seja fotografia, pintura, cinema, plásticas, esculturas... enfim, amo arte!).
 - 😄 Pronouns: ele/dele.
 
@@ -16,15 +16,16 @@
 
   #### As linuagens que estou aprendendo:
 <div style="display: inline_block">
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
  
  #### As linguagens que aprendi de leve ou vi em algum momento:
 <div style="display: inline_block">
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
 <div>
